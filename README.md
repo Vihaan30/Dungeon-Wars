@@ -1,1 +1,2 @@
-# Dungeon-Wars
+# collisionAlgorithm
+Algorithm to detect collision between two objects
